@@ -1,0 +1,10 @@
+.idea/
+target/
+*/__pycache__/
+.DS_Store
+*/.DS_Store
+test/
+data/test/
+__pycache__/
+utils/tools/__pycache__/
+utils/__pycache__/
